@@ -18,7 +18,7 @@ Let us directly move to the installation part.
 choose a suitable directory to work on
 ```sh
 $ mkdir rajdock
-$ git clone
+$ git clone https://github.com/raj1rana/jenkins-docker.git
 ```
 ### Download Docker
 go to www.docker.com and download the suitable version according to your operating system
